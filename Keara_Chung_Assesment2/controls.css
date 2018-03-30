@@ -1,0 +1,29 @@
+#slider1 {
+    width: 50px;
+}
+
+#slider2 {
+    width: 50px;
+}
+
+#slider3 {
+    width: 50px;
+}
+
+#slider4 {
+    width: 50px;
+}
+
+#number {
+    background-color: black;
+    color: white;
+}
+
+#random {
+    background-color: pink;
+}
+
+#plus {
+    background-color: dimgray;
+    color: white;
+}
